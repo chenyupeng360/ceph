@@ -18,6 +18,7 @@ and, monitoring an operating cluster.
 	monitoring
 	monitoring-osd-pg
 	user-management
+    pg-repair
 
 .. raw:: html 
 
